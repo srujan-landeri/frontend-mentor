@@ -4,7 +4,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -14,9 +14,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-### Screenshot
+### Screenshots
 
-![](./screenshot.jpg)
+#### Mobile View
+<img margin = "10" width = "200" src = "https://i.postimg.cc/mkwkR5kS/Screenshot-2023-03-11-180052.png)](https://postimg.cc/y3DsynFJ">
+
+#### Desktop View
+<img margin = "10" width = "800" src = "https://i.postimg.cc/NfsLbBCC/Screenshot-2023-03-11-180104.png)](https://postimg.cc/dDfqVPYG">
+
 
 ### Links
 
