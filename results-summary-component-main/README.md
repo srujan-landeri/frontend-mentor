@@ -27,12 +27,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+### Mobile View
+<img width = "300" src = "https://i.postimg.cc/NGpBqs33/Screenshot-2023-03-12-at-14-11-35-Frontend-Mentor-Results-summary-component.png">
 
+### Device View
+<img width = "800" src = "https://i.postimg.cc/4NjCsmBS/Screenshot-2023-03-12-at-14-11-15-Frontend-Mentor-Results-summary-component.png">
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/srujan-landeri/frontend-mentor/tree/main/results-summary-component-main](https://github.com/srujan-landeri/frontend-mentor/tree/main/results-summary-component-main)
+- Live Site URL: [https://result-summary-componenet.netlify.app](https://result-summary-componenet.netlify.app/)
 
 ## My process
 
