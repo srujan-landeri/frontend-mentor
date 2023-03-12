@@ -17,10 +17,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshots
 
 #### Mobile View
-<img margin = "10" width = "200" src = "https://i.postimg.cc/mkwkR5kS/Screenshot-2023-03-11-180052.png)](https://postimg.cc/y3DsynFJ">
+<img margin = "10" width = "200" src = "https://i.postimg.cc/4x0bnJsS/Screenshot-2023-03-12-at-12-02-22-Frontend-Mentor-QR-code-component.png)](https://postimg.cc/pmDn6M9f">
 
 #### Desktop View
-<img margin = "10" width = "800" src = "https://i.postimg.cc/NfsLbBCC/Screenshot-2023-03-11-180104.png)](https://postimg.cc/dDfqVPYG">
+<img margin = "10" width = "800" src = "https://i.postimg.cc/Zqg7k8W0/Screenshot-2023-03-12-at-12-00-13-Frontend-Mentor-QR-code-component.png)](https://postimg.cc/t13tWVtH">
 
 
 ### Links
