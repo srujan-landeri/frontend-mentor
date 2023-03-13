@@ -32,6 +32,7 @@ Users should be able to:
 
 ### Device View
 <img width = "800" src = "https://i.postimg.cc/4NjCsmBS/Screenshot-2023-03-12-at-14-11-15-Frontend-Mentor-Results-summary-component.png">
+
 ### Links
 
 - Solution URL: [https://github.com/srujan-landeri/frontend-mentor/tree/main/results-summary-component-main](https://github.com/srujan-landeri/frontend-mentor/tree/main/results-summary-component-main)
