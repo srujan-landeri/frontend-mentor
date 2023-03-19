@@ -45,7 +45,7 @@ const App = () => {
             1
           </span>
           <div className='step-content'>
-            <h2>STEP 1</h2>
+            <h1>STEP 1</h1>
             <h1>YOUR INFO</h1>
           </div>
         </div>
@@ -55,7 +55,7 @@ const App = () => {
             2
           </span>
           <div className='step-content'>
-            <h2>STEP 2</h2>
+            <h1>STEP 2</h1>
             <h1>SELECT PLAN</h1>
           </div>
         </div>
@@ -65,7 +65,7 @@ const App = () => {
             3
           </span>
           <div className='step-content'>
-            <h2>STEP 3</h2>
+            <h1>STEP 3</h1>
             <h1>ADD-ONS</h1>
           </div>
         </div>
@@ -75,7 +75,7 @@ const App = () => {
             4
           </span>
           <div className='step-content'>
-            <h2>STEP 4</h2>
+            <h1>STEP 4</h1>
             <h1>SUMMARY</h1>
           </div>
         </div>
