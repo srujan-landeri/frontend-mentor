@@ -4,7 +4,7 @@ This is a solution to the [Multi step form challenge on Frontend Mentor](https:/
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshots](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
